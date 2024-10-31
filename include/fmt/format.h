@@ -39,6 +39,7 @@
 #endif
 
 #include "base.h"
+#include <bit>
 
 #ifndef FMT_MODULE
 #  include <cmath>             // std::signbit
